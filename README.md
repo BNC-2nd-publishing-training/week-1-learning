@@ -5,17 +5,17 @@
 <div markdown="1">
   <ul>
     <li>
-      <a href='https://poiemaweb.com/html5-syntax' target="_blank">참고자료1</a>
+      <a href='https://poiemaweb.com/html5-syntax' target="_blank">HTML5 기본 문법</a>
     </li>
     <li>
-      <a href='https://poiemaweb.com/html5-tag-basic' target="_blank">참고자료2</a>
+      <a href='https://poiemaweb.com/html5-tag-basic' target="_blank">HTML5 구성 태그</a>
     </li>
   </ul>
 </div>
 </details>
 <details>
 <summary>HTML 기본 태그 학습</summary>
-<div markdown="1">
+<div markdown="2">
   <ul>
     <li>
       <a href='https://poiemaweb.com/html5-tag-text' target="_blank">텍스트 관련 태그</a>
@@ -37,28 +37,29 @@
 </details>
 <details>
 <summary>HTML 치트시트 알기</summary>
-<div markdown="1">
+<div markdown="3">
   <ul>
     <li>
-      <a href='https://www.geeksforgeeks.org/html-cheat-sheet/' target="_blank">참고자료1</a>
-    </li>
-    <li>
-      <img src='' alt='html cheatsheet'/>
+      <a href='https://www.geeksforgeeks.org/html-cheat-sheet/' target="_blank">HTML5 Cheat Sheet</a>
     </li>
   </ul>
 </div>
 </details>
 <details>
 <summary>CSS 기본 구조 학습</summary>
-<div markdown="1">
+<div markdown="4">
   <ul>
     <li>
-      <a href='https://poiemaweb.com/css3-syntax' target="_blank">참고자료1</a>
+      <a href='https://poiemaweb.com/css3-syntax' target="_blank">CSS 기본 문법</a>
     </li>
   </ul>
 </div>
 </details>
 
 ## 실습 가이드
-- 작성중
+>💡 **HTML5 Cheat Sheet** 자료를 토대로 **HTML5 태그를 실습**해 봅시다.
+
+#### 1. `main` 브랜치 클론
+
+#### 2. `index.html` 파일에 실습 내용 추가하여 git push
 
