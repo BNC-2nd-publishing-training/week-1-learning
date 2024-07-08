@@ -1,0 +1,5 @@
+.title-box > h1,
+p {
+    width: fit-content;
+    margin: 20px auto 10px;
+}
